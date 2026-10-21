@@ -55,3 +55,10 @@ The full history of changes is in [CHANGELOG.md](CHANGELOG.md) inside each relea
 - Python + PySide6 (Qt), Pillow, numpy, ffmpeg. Optional: onnxruntime and faster-whisper for speech and person recognition.
 - Made by one person for a hobby, so expect rough edges. Bug reports are welcome as issues, with the app version number (shown in the window title).
 - No license has been chosen yet: all rights reserved for now. Ask before reusing the code.
+
+
+<img width="1920" height="1080" alt="theme_shadow" src="https://github.com/user-attachments/assets/e63a5351-78b5-4c71-a97b-285944bc1068" />
+<img width="1920" height="1080" alt="theme_neopixel" src="https://github.com/user-attachments/assets/6fea4a1b-58ef-43f2-bc31-ab9c2bddb3c0" />
+<img width="1920" height="1080" alt="theme_gauges" src="https://github.com/user-attachments/assets/f24d95f7-b26d-4912-a1ee-3833890e1d7b" />
+<img width="1920" height="1080" alt="theme_cinematic" src="https://github.com/user-attachments/assets/b84aaac9-1c3c-42b8-8d9a-42a19debb86a" />
+<img width="1920" height="1080" alt="theme_strip" src="https://github.com/user-attachments/assets/3b77ce7f-4467-4728-9cc6-22288c372312" />
