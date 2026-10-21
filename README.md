@@ -56,6 +56,11 @@ The full history of changes is in [CHANGELOG.md](CHANGELOG.md) inside each relea
 - Made by one person for a hobby, so expect rough edges. Bug reports are welcome as issues, with the app version number (shown in the window title).
 - No license has been chosen yet: all rights reserved for now. Ask before reusing the code.
 
+<img width="1912" height="1242" alt="image" src="https://github.com/user-attachments/assets/511c9d73-cfcc-4fd0-9cfa-459153a2ef3e" />
+<img width="1912" height="1242" alt="image" src="https://github.com/user-attachments/assets/ff370729-064e-4941-9fb9-ee900543fe89" />
+<img width="1912" height="1242" alt="image" src="https://github.com/user-attachments/assets/d7b735af-4407-4f2a-a1f4-00632fc35be2" />
+<img width="1912" height="1242" alt="image" src="https://github.com/user-attachments/assets/46f5aedf-3611-4f35-82bb-f604d564817c" />
+<img width="1912" height="1242" alt="image" src="https://github.com/user-attachments/assets/3054ee38-1483-413f-a352-92d8ab87a81f" />
 
 <img width="1920" height="1080" alt="theme_shadow" src="https://github.com/user-attachments/assets/e63a5351-78b5-4c71-a97b-285944bc1068" />
 <img width="1920" height="1080" alt="theme_neopixel" src="https://github.com/user-attachments/assets/6fea4a1b-58ef-43f2-bc31-ab9c2bddb3c0" />
